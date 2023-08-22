@@ -206,7 +206,7 @@ drive_id must be folder id and index must be url else it will not accept
 
 <b><u>Note</u></b>: If -up not specified then rclone destination will be the RCLONE_PATH from config.env
 
-<b>Powered By @Z_Mirror</b>
+<b>Powered By #ZKP143</b>
 """
 
 CAT_SEL_HELP_MESSAGE = """
