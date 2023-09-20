@@ -5,7 +5,6 @@ from sys import executable
 from time import time, monotonic
 from uuid import uuid4
 
-from aiofiles import open as aiopen
 from aiofiles.os import path as aiopath
 from aiofiles.os import remove as aioremove
 from psutil import (boot_time, cpu_count, cpu_percent, cpu_freq, disk_usage,
