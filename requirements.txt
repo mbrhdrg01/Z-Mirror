@@ -22,6 +22,7 @@ lxml
 motor
 mutagen
 natsort
+pillow
 psutil
 pybase64
 pymongo
@@ -34,6 +35,5 @@ telegraph
 tenacity
 tgcrypto
 typing_extensions
-uvloop
 xattr
 yt-dlp
