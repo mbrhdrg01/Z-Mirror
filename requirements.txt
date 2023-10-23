@@ -1,3 +1,6 @@
+aiohttp
+aiofiles
+aioshutil
 anytree==2.8.0
 apscheduler
 aria2p
@@ -32,5 +35,6 @@ telegraph
 tenacity
 tgcrypto
 typing_extensions
+uvloop
 xattr
 yt-dlp
