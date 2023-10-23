@@ -53,7 +53,7 @@ async def _mirror_leech(client, message, isQbit=False, isLeech=False, sameDir=No
                 '-b'       : False,    '-bulk'    : False,
                 '-n'       : '',       '-name'    : '',
                 '-e'       : True,     '-uz'      : True, '-unzip': True,
-                '-z'       : False,    '-zip'     : True,
+                '-z'       : True,     '-zip'     : True,
                 '-index'   : True,     '-id'      : True,
                 '-up'      : '',       '-upload'  : '',
                 '-u'       : '',       '-username': '',
